@@ -1,8 +1,8 @@
 # README
 
-- Arayüz için React öğrenirken.
+- Arayüz için React öğrenirken örnekler.
 
-# Nasıl çalıştırışır
+# Nasıl çalıştırılır
 
 - git clone (board)[https://github.com/nafidurmus/board]
 
