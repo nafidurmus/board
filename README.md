@@ -4,7 +4,8 @@
 
 # Nasıl çalıştırılır
 
-- git clone (board)[https://github.com/nafidurmus/board]
+- git clone https://github.com/nafidurmus/board
+
 
 - bundle install
 
