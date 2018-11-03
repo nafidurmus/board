@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Arayüz için React öğrenirken.
 
-Things you may want to cover:
+# Nasıl çalıştırışır
 
-* Ruby version
+- git clone (board)[https://github.com/nafidurmus/board]
 
-* System dependencies
+- bundle install
 
-* Configuration
+- rails db:migrate
 
-* Database creation
+- rails db:seed
 
-* Database initialization
+- cd client
 
-* How to run the test suite
+- npm install
 
-* Services (job queues, cache servers, search engines, etc.)
+- npm start
 
-* Deployment instructions
+- cd ..
 
-* ...
+- rails server -p 3001
